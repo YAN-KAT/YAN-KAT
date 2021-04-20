@@ -8,8 +8,9 @@
 <https://github.com/YAN-KAT/YAN-KAT/blob/ef2fe88ade76fc72b08fb5ae74ac6e90e7e6970b/README.md>
 
 
-![Github](https://github.com/YAN-KAT/YAN-KAT/blob/main/img.jpg)
+![Github](./img.jpg)
 
+![Github](https://images.pexels.com/photos/6096399/pexels-photo-6096399.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
 `function fun(){         echo "这是一句代码";    }    fun();`
 
 > 这是引用的内容
